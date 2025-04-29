@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arif Rahman! 👋</h1>
+<h1 align="center">Hi there, I'm Bilal Khan! 👋</h1>
 <h3 align="center">💻 MERN Stack Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
